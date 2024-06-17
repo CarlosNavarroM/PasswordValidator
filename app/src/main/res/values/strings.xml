@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FragmentPassword</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Validador de contraseñas</string>
+    <string name="second_fragment_label">Resultado</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="password_result">¡Tu contraseña cumple con los requisitos! Para mejorar la seguridad de tu contraseña, asegúrate de incluir caracteres especiales y números.</string>
+    <string name="escribe_una_contrasena">Escribe una contraseña</string>
+    <string name="validar_contrasena">Validar contraseña</string>
+    <string name="la_contrasena_debe_tener">La contraseña debe tener al menos 5 caracteres y una letra mayúscula</string>
+</resources>
